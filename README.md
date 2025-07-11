@@ -55,4 +55,4 @@ Thanks to *CodeSoft* for providing this internship opportunity and helping me ga
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone === https://github.com/PayalKushwaha01/codesoft-Internship-Tasks.git
